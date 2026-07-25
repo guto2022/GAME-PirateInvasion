@@ -1,10 +1,6 @@
 # 🏴‍☠️ GAME-PirateInvasion
 
-<p align="center">
-  <img src="assets/background.gif" alt="demonstração do Pirate Invasion" width="600">
-</p>
-
-> **Status:** 🚧 Em construção
+> **Status:** ✔️ Concluído
 
 ## 📖 Sobre
 

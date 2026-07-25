@@ -6,7 +6,7 @@ class CannonBall {
     this.r = 30;
     this.speed = 0.05;
     this.body = Bodies.circle(x, y, this.r, options);
-    this.image = loadImage("./assets/cannonball.png");
+    this.image = loadImage("assets/cannonball.png");
     this.animation = [this.image];
     this.trajectory = [];
     this.isSink = false;
